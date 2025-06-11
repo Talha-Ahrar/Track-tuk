@@ -2,7 +2,7 @@
   "name": "tracktuk",
   "version": "0.1.0",
   "private": true,
- "homepage": ".",
+ "homepage": "http://tracktuk.betapixelstudio.com",
 
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
